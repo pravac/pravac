@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pravin! 👋  
+<!--🚀 Software Engineer | Backend & Systems Developer--> 
+💡 Passionate about C, Python, Linux, and performance optimization  
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/pravin-agrawal-chung)  
+🔭 Check out my top projects below!
 
-<!--
-**pravac/pravac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+🔹 C, Python<!--, JavaScript, Bash-->  
+🔹 Linux<!--, Docker-->, Git, Valgrind  
+<!--🔹 Flask, Node.js, React, SQL, MongoDB-->  
 
-Here are some ideas to get you started:
+<!--## 🔥 Featured Projects
+- [🔗 Project 1 - System Monitoring Tool](https://github.com/yourusername/project1)  
+  *A real-time system performance monitoring tool built in C.*  
+- [🔗 Project 2 - Web Scraper](https://github.com/yourusername/project2)  
+  *A Python-based web scraper for extracting data.*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)-->
